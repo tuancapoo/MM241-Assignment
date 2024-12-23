@@ -2,7 +2,7 @@ from policy import Policy
 import numpy as np
 import random
 from copy import deepcopy
-class Policy2210xxx(Policy):
+class Policy2313749_2313890_2311402_2313452_2313637.py(Policy):
     def __init__(self, policy_id=1):
         assert policy_id in [1, 2], "Policy ID must be 1 or 2"
 
